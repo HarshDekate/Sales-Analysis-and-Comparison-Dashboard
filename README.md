@@ -38,8 +38,6 @@ The project uses a sample retail dataset containing:
 ## Project Structure  
 
 📂 SalesAnalysisDashboard/  
-├── 📁 Data/          # Contains raw and processed data  
-├── 📁 Visuals/       # Includes exported dashboard visuals  
 ├── README.md         # Project documentation  
 └── Dashboard.pbix    # Power BI file  
   
@@ -60,4 +58,3 @@ The project uses a sample retail dataset containing:
 For questions or collaboration opportunities, feel free to reach out:  
 - **LinkedIn**: [Harsh Dekate](https://linkedin.com/in/harsh-dekate-b54745237)  
 - **Email**: harshtechbyte@gmail.com  
-```  
